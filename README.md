@@ -1,6 +1,9 @@
 # Chat-Application-Using-Erlang
 Chat Application
 
+Version 1: Consists Chat Application Implemented using Erlang with In-Memory Data Structures to store Messages, History, etc.
+Version 2: Added Mnesia DBMS for storing Messages, History, Offline messages, etc.
+Version 3: Upcomming(OTP Gen_Server)
 
 ## App Start Commands:
 
